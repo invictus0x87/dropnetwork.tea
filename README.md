@@ -1,2 +1,0 @@
-# dropnetwork.tea
-Tea Protocol
